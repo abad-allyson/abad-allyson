@@ -6,10 +6,11 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=abad-allyson&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="30%"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=abad-allyson&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
   <br />
   <img src="https://streak-stats.demolab.com/?user=abad-allyson&theme=dracula&hide_border=true"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abad-allyson&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="22%" height=""30/>
+  <br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abad-allyson&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 <br/>
