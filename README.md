@@ -47,7 +47,7 @@
 
 <img src="https://github-readme-stats.shion.dev/api?username=abad-allyson&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true"/>
 <br/>
-<img src="https://streak-stats.demolab.com/?user=abad-allyson&theme=city-lights&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=abad-allyson&theme=material-palenight&hide_border=true"/>
 <br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abad-allyson&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
