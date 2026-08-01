@@ -6,10 +6,10 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%239489ad.svg?style=for-the-badge&)](https://allyson-portfolio.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23a589ad.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/allly.son__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%238995ad.svg?style=for-the-badge&logo=linkedin&logoColor=2C2C2C)](https://linkedin.com/in/allyson-abad)
-[![Email](https://img.shields.io/badge/Email-99ad89?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allysob.abad.g@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23645e8a.svg?style=for-the-badge&)](https://allyson-portfolio.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%238a5e83.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/allly.son__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%235e6f8a.svg?style=for-the-badge&logo=linkedin&logoColor=2C2C2C)](https://linkedin.com/in/allyson-abad)
+[![Email](https://img.shields.io/badge/Email-638a5e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allysob.abad.g@gmail.com)
 
 </div>
 
