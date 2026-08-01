@@ -31,11 +31,11 @@
 <img src="https://skillicons.dev/icons?i=git,github,npm,vercel" />
 
 
-<br/> <br/>
+
 **Studying**
 <br/> <br/>
  <img src="https://skillicons.dev/icons?i=react,nextjs,wordpress" />
-<br/><br/>
+<br/>
 
 </div>
 
