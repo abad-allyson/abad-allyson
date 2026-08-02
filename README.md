@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=cc97b7&height=80&section=header&text=Allyson&fontSize=28&fontColor=39304a&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineer%20%Graduate%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=75&descSize=16&descColor=6B6B6B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffbdde&height=80&section=header&text=Hi!%20I'm%20Allyson&fontSize=24&fontColor=39304a&animation=fadeIn&fontAlignY=45&desc=Computer%20Engineer%20%Graduate%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=70&descSize=16&descColor=6B6B6B" width="100%"/>
 
 
 
@@ -56,7 +56,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=cc97b7&height=30&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffbdde&height=30&section=footer" width="100%"/>
 </div>
 
 
